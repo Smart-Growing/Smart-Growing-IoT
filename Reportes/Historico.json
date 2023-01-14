@@ -1,0 +1,502 @@
+{
+    "reportes": {
+        "2FYZrZ6DOybkXsObe5Tw": {
+            "acid": "7",
+            "fecha": "2022-12-13 23:37:07.896877+00:00",
+            "placa": 1001,
+            "temp": "25"
+        },
+        "3AllP5dcRVp4gpL5Nrwi": {
+            "acid": "9",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "4pWDslUzm80jBdncVkQI": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "755NPUJjMsjyeyAxMG1g": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "7v774rGrO274CPUOWjR5": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "B6Zdd7j2ahN0gUxTOpZd": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "BTxRFD1rlksOjkqx75ZU": {
+            "acid": "9",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "BVTCasEItQydLXzQWIKu": {
+            "acid": "6",
+            "fecha": "2022-12-13 23:37:07.896877+00:00",
+            "placa": 1001,
+            "temp": "25"
+        },
+        "BpkZblHByI74UavlFmrk": {
+            "acid": "8",
+            "fecha": "2022-12-31 10:19:57.495001+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "CN6GpU4T2dqYsMoaHD4W": {
+            "acid": "8",
+            "fecha": "2022-12-31 10:19:57.495001+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "CYK0MR3uVyxbFuG4378L": {
+            "acid": "9",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "CobxAFLJEfVDNSqlTbXf": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "FPC4B8KdPL49LbCSwj3I": {
+            "acid": "8",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "FuDdxP1rFuKS0votEFzI": {
+            "acid": "7",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "GITkWplV1D4FuyAzZoWr": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "HMMa8fe1t1LuImCBuxk6": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "Hp4NIkBudey1nFVQC4pS": {
+            "acid": "8",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "IJ4Bl6M1VkSaDlhCS8es": {
+            "acid": "7",
+            "fecha": "2022-12-31 09:35:08.772300+00:00",
+            "placa": 1001,
+            "temp": "21"
+        },
+        "K6oNGCkHUVpPlcDk9phP": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "KDxtUcGj3DciuqM80EXA": {
+            "acid": "9",
+            "fecha": "2022-12-15 12:24:25.764277+00:00",
+            "placa": 1001,
+            "temp": "26"
+        },
+        "KmZ5E6UkjkHvD8Dmgzum": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "LlkcOyYjPJRYW0VygYCg": {
+            "acid": "7",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "LxRn1GaA2J0vljDALKZP": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "MAJyY1mROdF1RTmgVIHx": {
+            "acid": "9",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "MDkubr3DPrTDlcr0wKqc": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "MGk0nuBaaJGYH0o1poEy": {
+            "acid": "9",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "MVp8lICPwtIc5Ri3EtgW": {
+            "acid": "7",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "N0W1vGDN5On9iNaHfWZ6": {
+            "acid": "7",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "N8I8OaS4QNGjkegLR4sh": {
+            "acid": "8",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "NenTQXoQGpxGRcx9AM0d": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "OYELAPDBogVCqXsb221x": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:19:57.495001+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "PGLiSGn9cBvlqvxiSuKD": {
+            "acid": "7",
+            "fecha": "2022-12-15 12:24:25.764277+00:00",
+            "placa": 1001,
+            "temp": "26"
+        },
+        "PIDSJrtp8utMRRgkT5Ld": {
+            "acid": "7",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "PTZTeZ14uDro45ihpKGV": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "PwK4IuOmtfqiuOjOJ89d": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "QE65JTiGgNiioeWQttnM": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "QaL4AxvK79qYy5303r94": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "SI339cdIS9AaDL2EgBYR": {
+            "acid": "9",
+            "fecha": "2022-12-31 10:19:57.495001+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "UCmXWKLVBtoxGbTYWjF2": {
+            "acid": "9",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "W9H4PzrJqavuA3YZuoIb": {
+            "acid": "9",
+            "fecha": "2022-12-09 09:09:47.958097+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "WA4d0LqyKXcgV3Xowt6R": {
+            "acid": "8",
+            "fecha": "2022-12-31 09:35:08.772300+00:00",
+            "placa": 1001,
+            "temp": "21"
+        },
+        "WPx3p9rvpMDahjrGLv1u": {
+            "acid": "7",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "WgK6XdaNBaUGO6iNNNRU": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "Wq8Ix9poMGJa6eegSGXj": {
+            "acid": "9",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "Xow8RA2ImpBDPPfSXsGN": {
+            "acid": "9",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "ZeRj9mb0lrJA9txvNhat": {
+            "acid": "8",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "ZhxKJrlQ3GXjlSOfcmD2": {
+            "acid": "8",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "aKn51wN0yoQXrFEX5QO6": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "bJbOUZ78t5WAvmrj3tUw": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "bMB2PvLqXYfSlHjmktd3": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "cRFLkK3n3EquRGXqMk6J": {
+            "acid": "6",
+            "fecha": "2022-12-15 12:26:51.131212+00:00",
+            "placa": 1001,
+            "temp": "31"
+        },
+        "cqHWvIzJwRTbbK18PAl6": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:24:19.127178+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "cqUEdYD525lXlyi7YN74": {
+            "acid": "6",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "dOFEQlNyLtKg0QNUnlMk": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "eoWSqZYIEZU4WO16mtqY": {
+            "acid": "8",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "erJgIKKxHvuRBbBm1Sd8": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "hHQHiLI6RygZz2WlD16B": {
+            "acid": "9",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "hp7iAPanjAdkpZMto1fN": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "i24BrOb3BnqhahSs1RCn": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "ieWlWN8jvEpo0v9TSd1G": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "jIi9k5T5Qf8RgRSeX9Ha": {
+            "acid": "8",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "kbu37pbJIOdafedlY10O": {
+            "acid": "7",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "kdSC0vj4DnsJAK03I6JJ": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "lAMtn60Awlk6zQBkw2Ct": {
+            "acid": "9",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "lTykKEY0haWJGChcuBuy": {
+            "acid": "6",
+            "fecha": "2022-12-09 11:49:04.144000+00:00",
+            "placa": "1001",
+            "temp": "24"
+        },
+        "mdJjXGsyK6SJavCshpla": {
+            "acid": "9",
+            "fecha": "2022-12-31 09:35:08.772300+00:00",
+            "placa": 1001,
+            "temp": "21"
+        },
+        "mvmSBjPbq6YPN1AHfUWs": {
+            "acid": "7",
+            "fecha": "2022-12-15 11:55:42.759241+00:00",
+            "placa": 1001,
+            "temp": "26"
+        },
+        "nrp1zOpAGllCBHOHIxWV": {
+            "acid": "6",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "oExtOyPyt6GbwKnGYrpC": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:19:57.495001+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "pMDAt0jQubzcyrrL7Ybc": {
+            "acid": "8",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "pSNo6TsZNrjWCXTnKqe1": {
+            "acid": "7",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "qnbpTyxm80a0N8scfabE": {
+            "acid": "7",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "qu8jkb97UquSMMKGAr4j": {
+            "acid": "9",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "qvHJBJ5FZYRoT43zwfRV": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "rm0nTRu7hWTJwoyTZEZQ": {
+            "acid": "9",
+            "fecha": "2022-12-31 09:35:08.772300+00:00",
+            "placa": 1001,
+            "temp": "21"
+        },
+        "sjNRKukteNkkCdp2eUNf": {
+            "acid": "8",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "t0hKCH4yytnPXr9tZCRa": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "uT0POG7WrbylnkicoTRh": {
+            "acid": "7",
+            "fecha": "2022-12-12 02:56:41.857288+00:00",
+            "placa": 1001,
+            "temp": "22"
+        },
+        "v6z1F5dETareXY69cWSp": {
+            "acid": "8",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "vP0un7IR4XkgRCzP4t4o": {
+            "acid": "6",
+            "fecha": "2022-12-09 09:25:48.667909+00:00",
+            "placa": 1001,
+            "temp": "24"
+        },
+        "xAN0wWBQXZZKjLkAgRtK": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        },
+        "zpf9T6wvdzivsnUsWNoF": {
+            "acid": "7",
+            "fecha": "2022-12-10 17:39:24.781221+00:00",
+            "placa": 1001,
+            "temp": "28"
+        },
+        "zvs0MCkso9n40AEBy7PP": {
+            "acid": "6",
+            "fecha": "2022-12-31 10:37:06.578440+00:00",
+            "placa": 1001,
+            "temp": "34"
+        }
+    }
+}
