@@ -23,19 +23,4 @@ def recepJson():
 
 
 
-#def receptJson():
-#    existencia = False
-#    arduinoRead()
-#    if len(aux) == 1:
-#        existencia = True
-#        print(aux)
-#        getJson = str(aux[0])
-#        fetch = getJson[9:11]
-#        print(fetch)
-#        aux.clear()
-#    return existencia
-
-
-
-
 
