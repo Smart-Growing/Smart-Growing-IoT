@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartgrowingapp",
+  "private_key_id": "6607be575300d8f825b54e1ff7b98c8df4e1ee25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbwS65Ie93Tf62\nf0N3i1wDWoLKBY2b1nuVpphX/1IIx3UHS6ZIKkii8cSD+PWt2afFlgBn2LrSrz5q\n/nnFos/zW1V+6s1bsmXybPu0nKuAskY4VzGJZip/i95T90kE60dv/eYHybSYakn5\nOJ8qY3yK4HwGjcr7IJr2L+HcH8SwDmru+wcx+M2lxCyRWft5fKYSLwprs7+vSpp0\nuIvxYrGnZqEVzfR8oj5qtVoLOEPOnZbV4/lXFoxT4K12ZBuXowsQG4EutQei0uyh\nvGOErlB1L+Wv/ZhaJ2c4MqOBFTRLaNsq5Dqh8KxOsR5rm9TC1QCTkVGSodJFEPpT\nLeeBWL3LAgMBAAECggEALqoTSI49Q55PiPfaC8/p8mtEsig1xBHflveBvyOUvWKc\n0mG84PQiLQeIXA3T9ZE3bcBCQNqzJnowljfF3guoh/2+QLcybZ2mY5p5UyR5UaaX\n2TtucP72Dp6mLrvw2ZNwJMKKD51ECUIXBZ8MONPztVwKbKBAxzp+kvHHln7CHAjO\nBzel7oYc95phTN7C6rkcLSviTs0F97yXXf96ZFB9nNEbMYr/AosPLkg4FhOLExgA\nnuigBVezeg7zKNrYyupfrgc5PNalEj41bgQs1tZXBsj1cj3Dqs/YzYDViOkzjjv1\nxBxCJ/vCm/aM/rVZB/F6ScffVJ/wSGGDcN1DPS6cGQKBgQDQg0J7tjhfCh2+FziR\nWNg9cElHnz628YUwI6u4T57uf5svRuR1+Na5a3gQDWJa60wj2VUgPGs1Qkf6H9hl\n6B+AoKrLnzo8UH5xUuz0GgzPRmPtJZ3Mkrbgio4GtnQ1EW8ykt9PqubKe61e0l/s\nMsYK+WG8Ljf1wV/L/9uMAtWVtwKBgQC/OgLso9ETOpCo0Y/p9U3Chn2vkmHBCSY1\nJzn1fn+j2Os3x+vYy6jDkx+izVow0rGbkyf0Gy5wYOaWHAteaaeEiXPFCSNjl9uS\ncoATPPTlpsxVOYKYcPBrmAs7zjsWGjVEnjLphxU3qBrM0M9vqHjMYs/HgOyKuSZ8\nU5lwXLT4jQKBgGua4YtwbUT2toSr/SBdJjMGqHqSvs2wdFh0gCD8zfss1UwfnLUY\n9s73nB1EmvZqqX9yoBCjvXvducFl/8oPcXpy79FnWalYrPgUoH4Ul3m8TMNMf1Pc\nfw3/0u256NyeI7GIxD+b5cCm9MCTdrcxOKzfJ8XyYCSuZ56iao2lxM2fAoGAXfgW\n6cySeD2GSr84VkLKJHZMmxN24BIr6WDOVXoFJTH6XJ3sostpsjnBCRKaaHWQ+59z\nubwFtQmZJli/qXSH8lRNRJz5+/3q02tazplcyuGNda/eIiUVr/m2Q3xTgsf8Nyz6\nXdGYtpHwIYfW98q1GdLQwfvzwTO82smGFDYqZB0CgYEAie7XDe7e0k1XThDYnBzq\nVRx2u3GX/GKgDMYRJ4vcFiWDzx0nnT0L0mgW/W3/PgnUYDnTopcucojvRhG1h0EF\na8N9tIKNEvl+IGwcqTJE4Gq0BTyVoTnEELe7i6DVdF/vUWuxCNv3WqL34+z19WV0\naMeACsMmPFUXR7ymuQghuBA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p2bmb@smartgrowingapp.iam.gserviceaccount.com",
+  "client_id": "105001995974004668120",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p2bmb%40smartgrowingapp.iam.gserviceaccount.com"
+}
