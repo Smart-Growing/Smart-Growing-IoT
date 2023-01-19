@@ -5,7 +5,6 @@ from PIL import Image, ImageTk
 import mongoclean
 import firestore
 import report
-#from multiprocessing import Process
 
 
 # VENTANA RAIZ
@@ -19,7 +18,7 @@ root.config(bg="green")
 
 # INVOCACION DE FUNCIONES
 
-#process = Process(target=internetOfThings)
+
 
 
 

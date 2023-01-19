@@ -22,7 +22,6 @@ monitor_ref = db.collection(u'dispositivos').document(u'BZmp9hDRQqdeIRwZHrBH')
 
 reportes_ref = db.collection(u'reportes')
 
-#NUEVA
 
 
 def generarReportes():
@@ -48,31 +47,5 @@ def updateFirestore():
     print(data)
     monitor_ref.update(data)
 
-# COLLECTION PARA TESTEO DE FUNCIONALIDADES
-#monitor_ref = db.collection(u'testeo').document(u'monitortesting')
 
-# COLLECTION PARA IMPLEMENTACION DE LA APP (AUN CON ERRORES EN EL RECYCLERVIEW)
-#monitor_ref = db.collection(u'dispositivos').document(u'monitorfuncional')
-#BZmp9hDRQqdeIRwZHrBH
-#Wey9lU8eJ0S06i2S1yeH
-
-#def actualizarDatos(temp,acid):
-#    data = {"temp": temp, "acid": acid}
-#    monitor_ref.update(data)
-
-#def convertirJson():
-#    converter = False
-#    fetchReportes()
-#    if len(firestore.registros):
-#        with open(firestore.historico) as json_file:
-#            data = json.load(json_file)
-#            df = pd.DataFrame(data)
-#            df.to_excel('./ReporteHistorico.xlsx')
-
-# ORDEN DE LAS FUNCIONES PARA MULTITASKING
-
-#mongoclean.mongoRealtime()
-#mongoclean.mongoUpdate()
-#fetchingData()
-#updateFirestore()
 
