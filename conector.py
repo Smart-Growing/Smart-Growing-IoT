@@ -18,7 +18,6 @@ def realtimeInterfaz(dispositivo):
 def updateSensorInterfaz(dispositivo):
     if realtimeInterfaz(dispositivo):
         print(bridge.aux[0])
-        #confirmacionPlaca()
         datasensores.update_one(
     {"num_placa": 12345},
     {"$set":{"magnis":[
@@ -73,31 +72,3 @@ def updateSensor():
         bridge.aux[0]]
     }})
     return datasensores
-
-
-# IMPLEMENTACIONES FUTURAS
-
-#dispositivo = interfaz.opcionConexion.get()
-#usuario = interfaz.textoUsuario.get()
-#password= interfaz.textoPass.get()
-
-#users.insert_one(
-#    {"correo": "rodrigo",
-#    "password": "pruebas"}  
-#)
-
-#datasensores.insert_one(
-#    {"num_placa": 12345,
-#    "magnis": [
-#    {
-#      "temp": 22,
-#      "acid": 0
-#    }
-#  ]})
-
-#def validarPlaca(num):
-#    registro = False
-#    if datasensores.find_one({"num_placa": num})
-
-#updateSensor()
-

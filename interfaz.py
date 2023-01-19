@@ -124,44 +124,4 @@ conexionLabel.grid(row=5,column=0, sticky="w", pady=5, padx=5)
 botonInicio = Button(monFrame, text="Conectar Dispositivo", width=20, command=ejecutarFunciones)
 botonInicio.grid(row=6, column=1, sticky="w", pady=5, padx=5)
 
-# IMPLEMENTACIONES FUTURAS
-
-#textoNum=Entry(monFrame, width="40")
-#textoNum.grid(row=4,column=1, sticky="w", pady=5, padx=5)
-#textoNum.config(fg="green",justify="center")
-
-#numeroLabel=Label(monFrame, text="Número de placa : ")
-#numeroLabel.grid(row=4,column=0, sticky="w", pady=5, padx=5)
-
-#def verificarPlaca():
-#    controlador = False
-#    numeroPlaca = textoNum.get()
-#    if validarPlaca(numeroPlaca):
-#        controlador = True
-#        checkPlaca = Label(monFrame, text="✓", fg="green")
-#        checkPlaca.grid(row=4, column=2)
-#        #establecerPlaca()
-#        habilitarPuerto()
-#    else:
-#        errorPlaca = Label(monFrame, text="Placa no registrada", fg="red")
-#        errorPlaca.grid(row=4, column=2)
-#    return controlador
-
-#def establecerPlaca():
-#    estructura = False
-#    numeroPlaca = textoNum.get()
-#    if bridge.identificarPlaca(numeroPlaca):
-#        estructura = True
-#    return estructura
-
-#while comprobarConexion():
-    #    puertoSerial = opcionConexion.get()
-    #    bridge.receptInterfaz(puertoSerial)
-    #    for x in range(10):
-    #        updateSensorInterfaz(puertoSerial)
-    #    break
-
-
-#raiz.iconbitmap("gota.ico")
-
 root.mainloop()
